@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InClassAssignment08-YanyingL</string>
+
+    <string name="question_1">Apple is a computer</string>
+    <string name="question_2">Banana is a computer</string>
+    <string name="question_3">Cats like fishes</string>
+    <string name="question_4">Cats know how to catch fish</string>
+    <string name="question_5">Cats can swim</string>
+    <string name="question_6">Cats can climb trees</string>
+
+    <string name="title_1">Apple</string>
+    <string name="title_2">Banana</string>
+    <string name="title_3">Fish</string>
+    <string name="title_4">Catch fish</string>
+    <string name="title_5">Swim</string>
+    <string name="title_6">Climb trees</string>
+
+    <string name="q1">true</string>
+
+</resources>
